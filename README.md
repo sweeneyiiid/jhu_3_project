@@ -17,6 +17,7 @@ Note I completed the project in MS Windows 8, which allows space characters in d
 Once downloaded, we need to process the data according to the instructions provided for the project:
 
 You should create one R script called run_analysis.R that does the following.
+
 1. Merges the training and the test sets to create one data set.
 
 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
@@ -84,36 +85,20 @@ After processing the main data set and summarized dataset have the same variable
 
 Below is the list of measurements in the dataset.  If the name is followed by XYZ, it is actually three separate measurements, one for each axis.
 
-tBodyAcc-XYZ
-
-tGravityAcc-XYZ
-
-tBodyAccJerk-XYZ
-
-tBodyGyro-XYZ
-
-tBodyGyroJerk-XYZ
-
-tBodyAccMag
-
-tGravityAccMag
-
-tBodyAccJerkMag
-
-tBodyGyroMag
-
-tBodyGyroJerkMag
-
-fBodyAcc-XYZ
-
-fBodyAccJerk-XYZ
-
-fBodyGyro-XYZ
-
-fBodyAccMag
-
-fBodyAccJerkMag
-
-fBodyGyroMag
-
-fBodyGyroJerkMag
+- tBodyAcc-XYZ
+- tGravityAcc-XYZ
+- tBodyAccJerk-XYZ
+- tBodyGyro-XYZ
+- tBodyGyroJerk-XYZ
+- tBodyAccMag
+- tGravityAccMag
+- tBodyAccJerkMag
+- tBodyGyroMag
+- tBodyGyroJerkMag
+- fBodyAcc-XYZ
+- fBodyAccJerk-XYZ
+- fBodyGyro-XYZ
+- fBodyAccMag
+- fBodyAccJerkMag
+- fBodyGyroMag
+- fBodyGyroJerkMag
