@@ -18,9 +18,13 @@ Once downloaded, we need to process the data according to the instructions provi
 
 You should create one R script called run_analysis.R that does the following.
 1. Merges the training and the test sets to create one data set.
+
 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
+
 3. Uses descriptive activity names to name the activities in the data set
+
 4. Appropriately labels the data set with descriptive variable names. 
+
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 A description of the data was provided by the instructors and can be found at the link below.
@@ -81,19 +85,35 @@ After processing the main data set and summarized dataset have the same variable
 Below is the list of measurements in the dataset.  If the name is followed by XYZ, it is actually three separate measurements, one for each axis.
 
 tBodyAcc-XYZ
+
 tGravityAcc-XYZ
+
 tBodyAccJerk-XYZ
+
 tBodyGyro-XYZ
+
 tBodyGyroJerk-XYZ
+
 tBodyAccMag
+
 tGravityAccMag
+
 tBodyAccJerkMag
+
 tBodyGyroMag
+
 tBodyGyroJerkMag
+
 fBodyAcc-XYZ
+
 fBodyAccJerk-XYZ
+
 fBodyGyro-XYZ
+
 fBodyAccMag
+
 fBodyAccJerkMag
+
 fBodyGyroMag
+
 fBodyGyroJerkMag
