@@ -97,7 +97,3 @@ fBodyAccMag
 fBodyAccJerkMag
 fBodyGyroMag
 fBodyGyroJerkMag
-
-
-according to the following convention
-    - <base variable name>.<measurement (mean or std)>.<axis, if applicable> 
